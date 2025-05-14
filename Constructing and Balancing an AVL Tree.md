@@ -15,10 +15,9 @@ To write a Python program to construct an **AVL tree**, balance it, and print th
 - Print the tree **after balancing**.
 
 **Step 4**: Create a list `L` of integers.
-
 **Step 5**: Call `Construct_AVL(L)` to build and balance the tree.
-
 **Step 6**: End the program.
+
 ---
 ## PYTHON PROGRAM
 ```
